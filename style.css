@@ -1,0 +1,16 @@
+div{
+    background-color: olive;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    color: white;
+    height: 90px;
+    width: 90px;
+    background-color: aqua;
+}
+li{
+    background-color: blue;
+}
